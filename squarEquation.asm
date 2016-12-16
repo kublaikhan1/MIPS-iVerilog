@@ -4,7 +4,7 @@
 main:
 	ori $4,$0,2      # x = 2 in $5
 	mult $4, $4      # x*x
-	mflo $10	 # move x^2 in lo to $2
+	mflo $10	 	# move x^2 in lo to $2
 	
 	ori $6, $0,4      # 4-> $6
 	multu $10, $6     # 4 * x^2 
