@@ -2,6 +2,7 @@
 #Assignment 1
 #Prime number program Assembly
 #Real instructions
+#Computer Architecture 
 ##############################
 
 .data 		 									#placed in section of program identified with assembler directive .data
